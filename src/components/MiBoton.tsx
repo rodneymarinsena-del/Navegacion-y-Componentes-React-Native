@@ -1,4 +1,3 @@
-// src/components/MiBoton.tsx
 import { Ionicons } from "@expo/vector-icons";
 import { StyleSheet, Text, TouchableOpacity } from "react-native";
 
